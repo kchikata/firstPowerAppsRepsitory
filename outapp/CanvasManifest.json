@@ -95,7 +95,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -114,7 +114,7 @@
     "Id": "2a1ef976-231e-43c3-9f00-73ad393ed383",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "GitHub連携検証",
     "OriginatingVersion": "1.334",
     "ParserErrorCount": 0,
@@ -132,6 +132,7 @@
     "UserLocale": "ja-JP"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen1_1"
   ]
 }
