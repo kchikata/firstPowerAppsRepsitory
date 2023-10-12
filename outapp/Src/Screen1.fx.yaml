@@ -1,0 +1,31 @@
+Screen1 As screen:
+
+    TextInput1 As text:
+        Default: =""
+        Height: =70
+        HintText: ="名前を入力"
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button1 As button:
+        Height: =70
+        OnSelect: =Set(gblName, TextInput1.Text)
+        Size: =24
+        Text: ="ボタン"
+        Width: =280
+        X: =160
+        Y: =161
+        ZIndex: =2
+
+    Label1 As label:
+        Height: =70
+        Size: =21
+        Text: =If(IsBlank(gblName),Blank(),"こんにちは、" & gblName)
+        Width: =560
+        X: =40
+        Y: =282
+        ZIndex: =3
+
