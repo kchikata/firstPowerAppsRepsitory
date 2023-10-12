@@ -8,7 +8,7 @@
     "Controls\\1.json": "C8_opQhFd7tQ3IkRABVgFFq82IYQKAFbJ5qy/GElyH/FyI=",
     "Controls\\4.json": "C8_YurGxBBShsuzI8RxJEUrnMWhAvNWsrv1VPae+jpJs6k=",
     "Controls\\8.json": "C8_0CVFvmMmAuVFdm02EJLNEHgIb/kXJGzQyAOk08LCEfE=",
-    "Header.json": "C8_bq/tXPWnaIiu3NeAXJ8LGUW1IAKcFcAy9OXSbm5ggDE=",
+    "Header.json": "C8_oPVVisjsUNfi6ZlybZ+zbDPY/W0memQk9x/qcTP6YJg=",
     "Properties.json": "C8_scE4pP6Q2YTOKhO6FrJ5KdFNoOnOaROP3n57tLcASfw=",
     "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
     "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
@@ -17,13 +17,13 @@
     "References\\Themes.json": "C8_zuMgLpz3IJQlVgGqo3GtyhriL3PR35GxXf+rtPR4Gfc=",
     "Resources\\PublishInfo.json": "C8_LQ3m6kt7GpGr6uZ80/OLyycmJ8vOApm/KPib90pEQ+o="
   },
-  "ClientStampedChecksum": "C8_SDRQMp7Ga9nOz0yWG8l/zAVwizMNV/yyNgBbSCcLx/A=",
+  "ClientStampedChecksum": "C8_WCzkZEQinl5GjyobAji0kownqgUzadxROiPLUp1uXe0=",
   "ServerPerFileChecksums": {
     "AppCheckerResult.sarif": "C8_nxysQ2FffFaWDEzw+gKzgjf5P7ZjnbwQCw1gjIg1eG0=",
     "Controls\\1.json": "C8_opQhFd7tQ3IkRABVgFFq82IYQKAFbJ5qy/GElyH/FyI=",
     "Controls\\4.json": "C8_YurGxBBShsuzI8RxJEUrnMWhAvNWsrv1VPae+jpJs6k=",
     "Controls\\8.json": "C8_0CVFvmMmAuVFdm02EJLNEHgIb/kXJGzQyAOk08LCEfE=",
-    "Header.json": "C8_bq/tXPWnaIiu3NeAXJ8LGUW1IAKcFcAy9OXSbm5ggDE=",
+    "Header.json": "C8_oPVVisjsUNfi6ZlybZ+zbDPY/W0memQk9x/qcTP6YJg=",
     "Properties.json": "C8_scE4pP6Q2YTOKhO6FrJ5KdFNoOnOaROP3n57tLcASfw=",
     "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
     "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
@@ -32,5 +32,5 @@
     "References\\Themes.json": "C8_zuMgLpz3IJQlVgGqo3GtyhriL3PR35GxXf+rtPR4Gfc=",
     "Resources\\PublishInfo.json": "C8_LQ3m6kt7GpGr6uZ80/OLyycmJ8vOApm/KPib90pEQ+o="
   },
-  "ServerStampedChecksum": "C8_SDRQMp7Ga9nOz0yWG8l/zAVwizMNV/yyNgBbSCcLx/A="
+  "ServerStampedChecksum": "C8_WCzkZEQinl5GjyobAji0kownqgUzadxROiPLUp1uXe0="
 }
