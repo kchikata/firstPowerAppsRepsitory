@@ -115,13 +115,13 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "GitHub連携検証",
+    "Name": "GitHub連携検証branch1",
     "OriginatingVersion": "1.334",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "GitHub連携検証",
+    "AppName": "GitHub連携検証branch1",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -133,6 +133,7 @@
   },
   "ScreenOrder": [
     "Screen1",
-    "Screen1_1"
+    "Screen1_1",
+    "Screen2"
   ]
 }
